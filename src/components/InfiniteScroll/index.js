@@ -1,4 +1,4 @@
-import React, { useCallback, useReducer, useState } from "react";
+import React, { useCallback, useState } from "react";
 import InfiniteScrollList from "./components/InfiniteScrollList";
 
 function InfiniteScroll() {

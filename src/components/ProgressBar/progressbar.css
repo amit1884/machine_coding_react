@@ -1,0 +1,19 @@
+.progressbar-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.progressbar{
+    width:600px;
+    border: 1px solid;
+    height: 20px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+.progress{
+    background-color: red;
+    height: 100%;;
+}
+button{
+    cursor: pointer;
+}
