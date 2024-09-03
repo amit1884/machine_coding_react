@@ -13,5 +13,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 # Machine Coding Solutions:
 
-1. Comment Component (using recursion)
-
+1. Comment Component - using recursion
+2. Infinite Scroll - using intersection observer
