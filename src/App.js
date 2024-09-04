@@ -1,6 +1,7 @@
 import Comments from "./components/comments";
 import InfiniteScroll from "./components/InfiniteScroll";
 import ProgressBar from "./components/ProgressBar";
+import Tabs from "./components/Tabs";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <Comments />
       {/* <InfiniteScroll /> */}
       <ProgressBar />
+      <Tabs />
     </div>
   );
 }

@@ -16,3 +16,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 1. Comment Component - using recursion
 2. Infinite Scroll - using intersection observer
 3. Progress Bar
+4. React Tab - (Composition Pattern)

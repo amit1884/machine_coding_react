@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+.tabHeader {
+  display: flex;
+  justify-content: space-around;
+  background-color: purple;
+}
+.tabHeaderItem {
+  padding: 20px;
+  color: #fff;
+  cursor: pointer;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.tabHeaderItem:hover {
+  border-bottom: 1px solid #fff;
+}
+.tabContentContainer {
+  width: 100%;
+  box-shadow: 1px 2px 10px lightgray;
+}
+.tabContent {
+  padding: 20px;
+  min-height: 200px;
+}
+.active {
+  background-color: rgb(57, 2, 57);
+}
